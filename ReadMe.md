@@ -1,5 +1,10 @@
 # Nathaniel's HomePage
 
+## Applications
+
+### [WebPad](https://github.com/NathanielACollier/WebPad)
++ Html editor with live preview.  Splits css,javascript, and html into seperate panes for easier editing.
+
 ## Libraries
 
 ### [Curl Http client](https://github.com/NathanielACollier/dotnetLib_nac.CurlHttpClient)
