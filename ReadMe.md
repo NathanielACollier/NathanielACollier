@@ -4,6 +4,7 @@
 
 ### [WebPad](https://github.com/NathanielACollier/WebPad)
 + Html editor with live preview.  Splits css,javascript, and html into seperate panes for easier editing.
+  + I'm working on a port of this to avalonia [here](https://github.com/NathanielACollier/dotnetCoreAvaloniaWebPad).  It will use the forms library instead of xaml.
 
 ## Libraries
 
