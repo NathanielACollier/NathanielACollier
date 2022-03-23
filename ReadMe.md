@@ -6,6 +6,9 @@
 + Html editor with live preview.  Splits css,javascript, and html into seperate panes for easier editing.
   + I'm working on a port of this to avalonia [here](https://github.com/NathanielACollier/dotnetCoreAvaloniaWebPad).  It will use the forms library instead of xaml.
 
+### [nacPDFEdit](https://github.com/NathanielACollier/nacPDFEditor)
++ Simple PDF Viewer with minor editing capability.  Not much here yet.  Written with avalonia via nac.Forms.
+
 ## Libraries
 
 ### [Curl Http client](https://github.com/NathanielACollier/dotnetLib_nac.CurlHttpClient)
@@ -17,5 +20,3 @@
 
 ### [nac.Forms.Table](https://github.com/NathanielACollier/dotnetLib_nac.Forms.Table)
 + Uses the `Avalonia` library to make creating UI with Table displays quick.
-
-`09032022/8972163`
