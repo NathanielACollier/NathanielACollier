@@ -9,6 +9,11 @@
 ### [nacPDFEdit](https://github.com/NathanielACollier/nacPDFEditor)
 + Simple PDF Viewer with minor editing capability.  Not much here yet.  Written with avalonia via nac.Forms.
 
+### [Clipboard Manager](https://github.com/NathanielACollier/repl_csharp_sln/tree/main/Utilities/WindowsOnly/WindowsClipboardManager)
++ Shows you what picture is currently on your clipboard.  A program to convert pictures into base64 str from the clipboard.
++ shows you what text is currently on your clipboard
++ Windows only
+
 ## Libraries
 
 ### [Curl Http client](https://github.com/NathanielACollier/dotnetLib_nac.CurlHttpClient)
