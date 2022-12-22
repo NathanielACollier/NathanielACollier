@@ -14,6 +14,11 @@
 + shows you what text is currently on your clipboard
 + Windows only
 
+## [Git Repo Finder](https://github.com/NathanielACollier/repl_csharp_sln/tree/main/Utilities/GitRepoFinder)
+
++ Provides a way to manage and filter local git repos.
++ Generally people store their git repos in a common git repo, so this program can traverse down and list all git repos in that folder.  It gives you an open in file manager button to be able to quickly access git repos
+
 ## Libraries
 
 ### [Curl Http client](https://github.com/NathanielACollier/dotnetLib_nac.CurlHttpClient)
