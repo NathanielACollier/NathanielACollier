@@ -23,5 +23,3 @@
 ### [nac.Forms](https://github.com/NathanielACollier/dotnetLib_nac.Forms)
 + Uses the `Avalonia` library to make creating user interfaces quickly.
 
-### [nac.Forms.Table](https://github.com/NathanielACollier/dotnetLib_nac.Forms.Table)
-+ Uses the `Avalonia` library to make creating UI with Table displays quick.
