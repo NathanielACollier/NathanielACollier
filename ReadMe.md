@@ -27,4 +27,12 @@
 
 ### [nac.Forms](https://github.com/NathanielACollier/dotnetLib_nac.Forms)
 + Uses the `Avalonia` library to make creating user interfaces quickly.
+	+ [nac.wpf.forms](https://github.com/NathanielACollier/ncWPFFormsLib)
+		+ Original project written in WPF.  Only supports binding via ObservableDictionary
+
+#### Supporting Libraries
++ [nac.logging](https://github.com/NathanielACollier/dotnetLib_nac.Logging)
+	+ Simple event based logging library
++ [nac.WebServer](https://github.com/NathanielACollier/dotnetLib_nac.WebServer)
+	+ Provides a way to serve web requests simply.  Used in WebPad to implement the live server view.
 
