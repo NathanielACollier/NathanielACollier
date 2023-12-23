@@ -28,7 +28,7 @@
 ### [nac.Forms](https://github.com/NathanielACollier/dotnetLib_nac.Forms)
 + Uses the `Avalonia` library to make creating user interfaces quickly.
 	+ [nac.wpf.forms](https://github.com/NathanielACollier/ncWPFFormsLib)
-		+ Original project written in WPF.  Only supports binding via ObservableDictionary
+		+ Original project written in WPF.
 
 #### Supporting Libraries
 + [nac.logging](https://github.com/NathanielACollier/dotnetLib_nac.Logging)
