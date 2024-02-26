@@ -31,8 +31,12 @@
 
 #### Supporting Libraries
 + [nac.logging](https://github.com/NathanielACollier/dotnetLib_nac.Logging)
-	+ Simple event based logging library
+  + Simple event based logging library
 + [nac.WebServer](https://github.com/NathanielACollier/dotnetLib_nac.WebServer)
-	+ Provides a way to serve web requests simply.  Used in WebPad to implement the live server view.
+  + Provides a way to serve web requests simply.  Used in WebPad to implement the live server view.
 + [nac.CSSParsing](https://github.com/NathanielACollier/dotnetLib_nac.CSSParsing)
   + Provides css parsing into structure
++ [nac.json](https://github.com/NathanielACollier/dotnetLib_nac.json)
+  + Makes working with json easier
++ [nc.HttpClient](https://github.com/NathanielACollier/dotnetLib_NC.HttpClient/)
+  + Library to make working with http calls easier
