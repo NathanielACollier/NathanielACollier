@@ -38,5 +38,5 @@
   + Provides css parsing into structure
 + [nac.json](https://github.com/NathanielACollier/dotnetLib_nac.json)
   + Makes working with json easier
-+ [nc.HttpClient](https://github.com/NathanielACollier/dotnetLib_NC.HttpClient/)
++ [nc.http](https://github.com/NathanielACollier/dotnetLib_nac.http/)
   + Library to make working with http calls easier
