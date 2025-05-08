@@ -38,5 +38,7 @@
   + Provides css parsing into structure
 + [nac.json](https://github.com/NathanielACollier/dotnetLib_nac.json)
   + Makes working with json easier
-+ [nc.http](https://github.com/NathanielACollier/dotnetLib_nac.http/)
++ [nac.http](https://github.com/NathanielACollier/dotnetLib_nac.http/)
   + Library to make working with http calls easier
++ [nac.OAUTHLogin](https://github.com/NathanielACollier/dotnetLib_nac.OAUTHLogin)
+  + Provides a way to do interactive OAUTH logins and get the token.   Provides helpers for various common OAUTH providers like Google, and Microsoft
